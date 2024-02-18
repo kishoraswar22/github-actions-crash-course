@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DevOps
+          Learn DevOps by practise
+          Testing github Actions
         </a>
       </header>
     </div>
